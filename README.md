@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @miu69420
-- 📫 How to reach me: mu69420@protonmail.com
+### Further reading
+
+- [Bad Apple but played in Tupper's Self-Referential Formula.](https://www.youtube.com/watch?v=LVNwWoSIhUs/)
