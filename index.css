@@ -14,15 +14,6 @@ body {
     }
 }
 
-button {
-  transition-duration: 0.4s;
-button {
-    background-color: transparent;
-    background-repeat: no-repeat;
-    border: none;
-    cursor: pointer;
-    overflow: hidden;
-}
 
 body * {
     font-family:"Lucida Console", Monaco, monospace;
