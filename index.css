@@ -16,11 +16,12 @@ body {
 
 button {
   transition-duration: 0.4s;
-}
-
-button:hover {
-  background-color: #222;
-  color: black;
+button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
 }
 
 body * {
