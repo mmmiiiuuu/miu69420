@@ -14,11 +14,11 @@ body {
     }
 }
 
-.button {
+button {
   transition-duration: 0.4s;
 }
 
-.button:hover {
+button:hover {
   background-color: #111;
   color: #333;
 }
