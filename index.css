@@ -26,6 +26,12 @@ h1,h2,h3{line-height:1.2;}
     text-align: center;
 }
 
+button {
+    position: absolute;
+    top:50%;
+    background-color:#0a0a23;
+}
+
 table {
     border-spacing: 1px;
 }
