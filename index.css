@@ -1,5 +1,6 @@
 body {
     font-family:"Lucida Console", Monaco, monospace;
+    color: #800080;
     background: #222;
     margin:40px auto;
     max-width:80%;
