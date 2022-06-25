@@ -2,7 +2,7 @@ body {
     font-family:"Lucida Console", Monaco, monospace;
     color: #76448A;
     background: #222;
-    margin:0px;
+    margin:17px;
     max-width:100%;
     line-height:0.17;
     font-size:7px;
@@ -13,4 +13,19 @@ body {
     line-height:0.37 !important;
     font-size:9px !important;
     padding:0 2px;
+}
+a {
+  color: #32CD32;
+}
+
+a:hover {
+  background-color: #32CD32;
+}
+
+a:active {
+  background-color: #32CD32;
+}
+
+a:visited {
+  background-color: #32CD32;
 }
