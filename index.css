@@ -10,7 +10,7 @@ body {
 }
 #datamoth {
     color: #32CD32 !important;
-    line-height:0.37;
-    font-size:9px;
+    line-height:0.37 !important;
+    font-size:9px !important;
     padding:0 2px;
 }
