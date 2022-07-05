@@ -10,9 +10,6 @@ body {
 }
 
 }
-canvas {
-  display: block;
-}
 #datamoth {
     margin: 0;
     position: absolute;
