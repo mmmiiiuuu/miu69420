@@ -19,16 +19,20 @@ body {
 
 a {
   color: #32CD32;
+    text-decoration: none;
 }
 
 a:hover {
   background-color: #333;
+    text-decoration: none;
 }
 
 a:active {
   background-color: #333;
+    text-decoration: none;
 }
 
 a:visited {
   background-color: #333;
+    text-decoration: none;
 }
