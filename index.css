@@ -4,7 +4,7 @@ body {
     background: #222;
     margin:17px;
     max-width:100%;
-    line-height:0.24;
+    line-height:1;
     font-size:5px;
     padding:0 0px;
 }
